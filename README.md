@@ -12,7 +12,7 @@ This project is a Honda showroom agency website, featuring a catalogue of Honda 
 
 ## Demo
 
-Check out the live demo of the website at [https://heartfelt-frangollo-e79af6.netlify.app/models](#).
+Check out the live demo of the video chat application: [Live Demo](https://heartfelt-frangollo-e79af6.netlify.app/models)
 
 ## Features
 
