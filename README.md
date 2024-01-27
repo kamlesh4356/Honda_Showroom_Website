@@ -2,7 +2,7 @@
 
 This project is a Honda showroom agency website, featuring a catalogue of Honda vehicles, dealership information, and a contact form. The website is built using HTML, CSS, and JavaScript and deployed on Netlify.
 
-## Table of Contents
+# Table of Contents
 
 - [Demo](#demo)
 - [Features](#features)
